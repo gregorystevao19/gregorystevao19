@@ -1,16 +1,19 @@
-<img align="right" height="300" src="https://i.imgur.com/Ivo09BP.gif"  />
-
-###
+<br clear="both">
 
 <h1 align="left">Hello there 👋. I'm Grégory Stevão.</h1>
 
 ###
 
-<p align="left">I'm a software engineer enthusiastic about technology and innovation, with a keen eye for crafting solutions. My passion for technology extends beyond mere curiosity; it's a driving force behind my continuous exploration and learning in every aspect of technology. I'm constantly seeking new challenges to expand my skills and contribute to society.</p>
+<div align="center">
+  <img height="320" width="100%" src="https://i.imgur.com/tyjvlyW.gif"  />
+</div>
 
 ###
 
-<br clear="both">
+<p align="center">I'm a software engineer enthusiastic about technology and innovation, with a keen eye for crafting solutions. My passion for technology extends beyond mere curiosity; it's a driving force behind my continuous exploration and learning in every aspect of technology. I'm constantly seeking new challenges to expand my skills and contribute to society.</p>
+
+###
+
 <br clear="both">
 
 <div align="center">
