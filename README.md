@@ -1,8 +1,8 @@
-<img align="right" height="300" style="padding: 0 0 0 10px" src="https://i.imgur.com/Ivo09BP.gif"  />
+<img style="padding: 0 0 0 10px;" align="right" height="300" src="https://i.imgur.com/Ivo09BP.gif"  />
 
 ###
 
-<h1 align="left">Hello there 👋. I'm Grégory Stevão.</h1>
+<span style="font-size: 2.5rem;" align="left">Hello there 👋. I'm Grégory Stevão.</span>
 
 ###
 
@@ -13,7 +13,7 @@
 
 <br clear="both">
 
-<br>
+###
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
