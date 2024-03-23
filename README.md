@@ -10,7 +10,7 @@
 
 ###
 
-<p align="center">I'm a software engineer enthusiastic about technology and innovation, with a keen eye for crafting solutions. My passion for technology extends beyond mere curiosity; it's a driving force behind my continuous exploration and learning in every aspect of technology. I'm constantly seeking new challenges to expand my skills and contribute to society.</p>
+<p align="center">I'm a software engineer, enthusiastic about technology and innovation, with a keen eye for crafting solutions. My passion for technology extends beyond mere curiosity; it's a driving force behind my continuous exploration and learning in every aspect of technology. I'm constantly seeking new challenges to expand my skills and contribute to society.</p>
 
 ###
 
