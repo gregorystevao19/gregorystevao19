@@ -1,19 +1,17 @@
-<img style="padding: 0 0 0 10px;" align="right" height="300" src="https://i.imgur.com/Ivo09BP.gif"  />
+<img align="right" height="300" src="https://i.imgur.com/Ivo09BP.gif"  />
 
 ###
 
-<span style="font-size: 2.5rem;" align="left">Hello there 👋. I'm Grégory Stevão.</span>
+<h1 align="left">Hello there 👋. I'm Grégory Stevão.</h1>
 
 ###
 
 <p align="left">I'm a software engineer enthusiastic about technology and innovation, with a keen eye for crafting solutions. My passion for technology extends beyond mere curiosity; it's a driving force behind my continuous exploration and learning in every aspect of technology. I'm constantly seeking new challenges to expand my skills and contribute to society.</p>
 
-
 ###
 
 <br clear="both">
-
-###
+<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -47,10 +45,7 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/gr%C3%A9gory-stev%C3%A3o-9048ba234/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"/>
-  </a>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
 </div>
-
 
 ###
