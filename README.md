@@ -1,4 +1,4 @@
-<img align="right" height="300" src="https://i.imgur.com/Ivo09BP.gif"  />
+<img align="right" height="300" style="padding: 0 0 0 10px" src="https://i.imgur.com/Ivo09BP.gif"  />
 
 ###
 
@@ -8,9 +8,12 @@
 
 <p align="left">I'm a software engineer enthusiastic about technology and innovation, with a keen eye for crafting solutions. My passion for technology extends beyond mere curiosity; it's a driving force behind my continuous exploration and learning in every aspect of technology. I'm constantly seeking new challenges to expand my skills and contribute to society.</p>
 
+
 ###
 
 <br clear="both">
+
+<br>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
